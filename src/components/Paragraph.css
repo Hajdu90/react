@@ -1,0 +1,13 @@
+.paragraph h1,
+.paragraph p
+{
+    max-width: 500px;
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.paragraph h1{
+    font-size: 22px;
+    font-weight: 500;
+}
